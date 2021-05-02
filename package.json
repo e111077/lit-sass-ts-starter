@@ -12,13 +12,14 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "lit": "*",
+    "lit": "latest",
     "tslib": "^2.2.0"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^11.2.1",
     "@web/dev-server": "^0.1.17",
     "node-sass": "^5.0.0",
+    "postcss": "^8.2.13",
     "rollup": "^2.46.0",
     "rollup-plugin-postcss": "^4.0.0",
     "rollup-plugin-postcss-lit": "^1.0.1",
