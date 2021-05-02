@@ -16,11 +16,7 @@ export default {
     resolve({
       browser: true,
     }),
-    typescript({
-      tsconfig: 'tsconfig.json',
-      include: ['**/*.ts'],
-      exclude: ['node_modules/**/*.d.ts']
-    }),
+    typescript(),
     postcss({
       minimize: false,
     }),
