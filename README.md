@@ -2,7 +2,7 @@
 
 This is a project that has a very simple setup for SASS + TS + Lit that uses rollup.
 
-See an online demo [here on Glitch](https://glitch.com/edit/#!/lit-sass-ts-starter?path=src%2Fmy-element.scss%3A3%3A1).
+See an online demo [here on Glitch](https://glitch.com/edit/#!/lit-sass-ts-starter).
 
 ## Goals
 
