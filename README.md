@@ -7,6 +7,7 @@ See an online demo [here on Glitch](https://glitch.com/edit/#!/lit-sass-ts-start
 ## Goals
 
 * Get started with Lit + SASS + TS
+  * For JS see [`e111077/lit-sass-js-starter`](https://github.com/e111077/lit-sass-js-starter)
 * Exemplify how to setup rollup to support this config
 
 ## Non-goals
