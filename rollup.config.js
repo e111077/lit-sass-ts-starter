@@ -19,6 +19,7 @@ export default {
     typescript(),
     postcss({
       minimize: false,
+      inject: false
     }),
     litcss(),
   ],
